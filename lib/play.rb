@@ -37,8 +37,8 @@ end
 
 # Define your play method below
 def play(board)
-int = 1
-while int<1
-  int+=1 
-  turn(board)
-end
+  int = 1
+  while int<1
+    int+=1 
+    turn(board)
+  end
