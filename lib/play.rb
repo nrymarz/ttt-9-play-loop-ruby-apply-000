@@ -42,3 +42,4 @@ def play(board)
     int+=1 
     turn(board)
   end
+end
